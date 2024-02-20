@@ -15,3 +15,5 @@
 'git checkout -b ?branch name?' <= creat a new branch
 'git checkout ???' <= open branch
 'git checkout -' <= open branch that the last time opened
+'git branch -D ?branch name?' <= delete branch
+branch is for saving the content change and ready to cover those content in main file.
