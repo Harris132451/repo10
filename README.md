@@ -10,6 +10,4 @@
 'git push origin main'
 'git pull origin main'
 'git push --force' <= for cover the code on github
-hahaha
-111
-123
+'git pull --rebase origin main' <= for replace a new (part) of code to the original (part)
