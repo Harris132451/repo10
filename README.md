@@ -1,5 +1,6 @@
 # repo10
 
+'git clone ?SSH key?'
 'git status'
 'git diff'
 'git log'
@@ -8,6 +9,7 @@
 'git add .'
 'git commit -m "message"'
 'git push origin main'
+'git push ?file name? ?branch?'
 'git pull origin main'
 'git push --force' <= for cover the code on github
 'git pull --rebase origin main' <= for replace a new (part) of code to the original (part)
@@ -16,4 +18,6 @@
 'git checkout ???' <= open branch
 'git checkout -' <= open branch that the last time opened
 'git branch -D ?branch name?' <= delete branch
+'git remote -v'
+'git remote add ?file name? ?key?'
 branch is for saving the content change and ready to cover those content in main file.
